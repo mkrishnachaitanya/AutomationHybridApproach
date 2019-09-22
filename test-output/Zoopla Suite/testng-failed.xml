@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Zoopla Suite]">
+  <test name="Zoopla Tests(failed)">
+    <classes>
+      <class name="com.zoopla.qa.TestCases.HomePageTest">
+        <methods>
+          <include name="verifyHomePageTitle"/>
+          <include name="enterCityNameToSearchBox"/>
+          <include name="setUp"/>
+          <include name="verityZooplaLogo"/>
+          <include name="setExtent"/>
+        </methods>
+      </class> <!-- com.zoopla.qa.TestCases.HomePageTest -->
+      <class name="com.zoopla.qa.TestCases.SalesPageTest">
+        <methods>
+          <include name="printListValues"/>
+          <include name="verifySalesPageTitle"/>
+          <include name="verityZooplaLogo"/>
+          <include name="clickOnPositionValue"/>
+        </methods>
+      </class> <!-- com.zoopla.qa.TestCases.SalesPageTest -->
+    </classes>
+  </test> <!-- Zoopla Tests(failed) -->
+</suite> <!-- Failed suite [Zoopla Suite] -->

@@ -1,0 +1,44 @@
+2019-08-18 23:49:23,015  INFO [main] WebEventListener:33 - Browser Launched Successfully
+2019-08-18 23:49:23,147  INFO [main] LoginPage:51 - Sign In Button Verified
+2019-08-18 23:49:23,824  INFO [main] LoginPage:131 - Browser Terminated
+2019-08-18 23:49:23,825  INFO [main] LoginPage:132 - -----------------------------------------------
+2019-08-18 23:49:38,678  INFO [main] WebEventListener:33 - Browser Launched Successfully
+2019-08-18 23:49:38,698  INFO [main] LoginPage:61 - Sign In Page Title Verified
+2019-08-18 23:49:39,418  INFO [main] LoginPage:131 - Browser Terminated
+2019-08-18 23:49:39,421  INFO [main] LoginPage:132 - -----------------------------------------------
+2019-08-18 23:49:52,645  INFO [main] WebEventListener:29 - Browser Launched Successfully
+2019-08-18 23:49:58,666  INFO [main] LoginPage:40 - Successfully Logged into Application
+2019-08-18 23:49:59,280  INFO [main] LoginPage:131 - Browser Terminated
+2019-08-18 23:49:59,281  INFO [main] LoginPage:132 - -----------------------------------------------
+2019-08-18 23:50:11,395  INFO [main] WebEventListener:29 - Browser Launched Successfully
+2019-08-18 23:50:17,431  INFO [main] LoginPage:49 - Successfully Logged into Application
+2019-08-18 23:50:17,492  INFO [main] LoginPage:51 - UserName Verified
+2019-08-18 23:50:18,124  INFO [main] LoginPage:131 - Browser Terminated
+2019-08-18 23:50:18,130  INFO [main] LoginPage:132 - -----------------------------------------------
+2019-08-18 23:50:31,398  INFO [main] WebEventListener:29 - Browser Launched Successfully
+2019-08-18 23:50:37,183  INFO [main] LoginPage:59 - Successfully Logged into Application
+2019-08-18 23:50:38,304  INFO [main] LoginPage:131 - Browser Terminated
+2019-08-18 23:50:38,305  INFO [main] LoginPage:132 - -----------------------------------------------
+2019-08-18 23:50:53,030  INFO [main] WebEventListener:29 - Browser Launched Successfully
+2019-08-18 23:50:59,186  INFO [main] LoginPage:72 - Successfully Logged into Application
+2019-08-18 23:50:59,230  INFO [main] LoginPage:75 - Sign Out Button Verified
+2019-08-18 23:50:59,862  INFO [main] LoginPage:131 - Browser Terminated
+2019-08-18 23:50:59,863  INFO [main] LoginPage:132 - -----------------------------------------------
+2019-08-18 23:51:12,212  INFO [main] WebEventListener:31 - Browser Launched Successfully
+2019-08-18 23:51:41,846  INFO [main] CheckoutPage:45 - Order is Placed Successfully
+2019-08-18 23:51:42,472  INFO [main] CheckoutPage:131 - Browser Terminated
+2019-08-18 23:51:42,473  INFO [main] CheckoutPage:132 - -----------------------------------------------
+2019-08-18 23:52:01,464  INFO [main] WebEventListener:31 - Browser Launched Successfully
+2019-08-18 23:52:28,548  INFO [main] CheckoutPage:56 - Order Confirmation Success Message is Validated Successfully
+2019-08-18 23:52:29,184  INFO [main] CheckoutPage:131 - Browser Terminated
+2019-08-18 23:52:29,185  INFO [main] CheckoutPage:132 - -----------------------------------------------
+2019-08-18 23:52:29,236 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2019-08-18 23:52:29,237 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2019-08-18 23:52:29,238 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-08-18 23:52:29,240 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-08-18 23:52:29,240 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-08-18 23:52:29,646 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2019-08-18 23:52:29,647 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2019-08-18 23:52:29,647 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-08-18 23:52:29,648 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-08-18 23:52:29,648 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"

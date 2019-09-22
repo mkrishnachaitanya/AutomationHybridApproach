@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [FREE CRM Application Test Automation Sanity Suite]">
+  <parameter name="Browser" value="chrome"/>
+  <test name="Free CRM Application Chrome Test Cases(failed)">
+    <parameter name="Browser" value="chrome"/>
+    <classes>
+      <class name="com.saal.challenge.TestCases.CheckoutPageTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.saal.challenge.TestCases.CheckoutPageTest -->
+      <class name="com.saal.challenge.TestCases.SignInPageTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="endReport"/>
+          <include name="setExtent"/>
+        </methods>
+      </class> <!-- com.saal.challenge.TestCases.SignInPageTest -->
+      <class name="com.saal.challenge.TestCases.LoginPageTest">
+        <methods>
+          <include name="verifyHomePageTitleTest" invocation-numbers="0"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.saal.challenge.TestCases.LoginPageTest -->
+    </classes>
+  </test> <!-- Free CRM Application Chrome Test Cases(failed) -->
+</suite> <!-- Failed suite [FREE CRM Application Test Automation Sanity Suite] -->

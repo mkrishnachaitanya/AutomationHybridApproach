@@ -1,0 +1,8 @@
+2019-08-18 23:44:10,082  INFO [main] WebEventListener:33 - Browser Launched Successfully
+2019-08-18 23:44:10,195  INFO [main] LoginPage:51 - Sign In Button Verified
+2019-08-18 23:44:10,825  INFO [main] LoginPage:131 - Browser Terminated
+2019-08-18 23:44:10,826  INFO [main] LoginPage:132 - -----------------------------------------------
+2019-08-18 23:44:43,947  INFO [main] WebEventListener:33 - Browser Launched Successfully
+2019-08-18 23:44:43,959  INFO [main] LoginPage:61 - Sign In Page Title Verified
+2019-08-18 23:44:44,588  INFO [main] LoginPage:131 - Browser Terminated
+2019-08-18 23:44:44,591  INFO [main] LoginPage:132 - -----------------------------------------------
